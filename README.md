@@ -10,20 +10,26 @@ I'm currently on a focused 6-month journey to specialize in **LLM App Developmen
   
 - Creating prompt-based UI tools & utilities
 
-- Engineering scalable web apps with React, Firebase, and cloud services  
+- Engineering scalable web apps with React, Firebase, and cloud services
+  
 - Experimenting with SaaS ideas & productivity tools powered by AI
 
 ### 🌩️ Tech Stack & Focus Areas
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **AI/ML:** OpenAI, HuggingFace, LLM APIs, Prompt Engineering  
-- **Backend/Infra:** Firebase, Node.js (learning), Git, GitHub, CI/CD  
+- **Frontend:** HTML, CSS, JavaScript, React
+  
+- **AI/ML:** OpenAI, HuggingFace, LLM APIs, Prompt Engineering
+ 
+- **Backend/Infra:** Firebase, Node.js (learning), Git, GitHub, CI/CD
+
 - **Other:** NoSQL (MongoDB), WordPress (Elementor), DaVinci Resolve (Video)
 
 ### ✨ What Sets Me Apart
 
-- Ability to move from idea → prototype → deploy in under 24 hours  
-- Strong blend of creative & technical thinking — also a composer & content creator  
+- Ability to move from idea → prototype → deploy in under 24 hours
+
+- Strong blend of creative & technical thinking — also a composer & content creator
+  
 - Entrepreneurial mindset: Building tools, testing fast, iterating with purpose
 
 ### 🌐 Let’s Connect
