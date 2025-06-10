@@ -1,18 +1,32 @@
-# 👋 Hi, I'm Safin Koradiya
+## ⭐️ Safin Koradiya — AI-Driven Developer | LLM Tools | Web & Prompt Engineer
 
-🔭 I’m on a 6-month mission to become an **LLM App Developer, Web Developer & Prompt Engineer**.
 
-💡 Currently building AI-integrated tools, GPT apps, and prompt-based UIs.
+I'm currently on a focused 6-month journey to specialize in **LLM App Development**, **Web Engineering**, and **Prompt Crafting for AI tools**. I design systems that combine clean UI with powerful backend intelligence — and I build fast.
 
-🧠 Learning:
-- Web Dev (HTML, CSS, JS, React)
-- LLM APIs (OpenAI, HuggingFace)
-- Prompt Engineering
-- Git, GitHub, Deployment
 
-📫 Reach me at:
-- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- [Twitter](https://twitter.com/YOUR_HANDLE)
-- [Portfolio Website](https://yourwebsite.com)
+### ⚡️ What I’m Working On
 
-⚡ Fun fact: I can turn ideas into working AI apps in 24 hours 😉
+- Building **LLM-integrated apps** using OpenAI & HuggingFace APIs
+  
+- Creating prompt-based UI tools & utilities
+
+- Engineering scalable web apps with React, Firebase, and cloud services  
+- Experimenting with SaaS ideas & productivity tools powered by AI
+
+### 🌩️ Tech Stack & Focus Areas
+
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **AI/ML:** OpenAI, HuggingFace, LLM APIs, Prompt Engineering  
+- **Backend/Infra:** Firebase, Node.js (learning), Git, GitHub, CI/CD  
+- **Other:** NoSQL (MongoDB), WordPress (Elementor), DaVinci Resolve (Video)
+
+### ✨ What Sets Me Apart
+
+- Ability to move from idea → prototype → deploy in under 24 hours  
+- Strong blend of creative & technical thinking — also a composer & content creator  
+- Entrepreneurial mindset: Building tools, testing fast, iterating with purpose
+
+### 🌐 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/safinkoradiya)  
+
